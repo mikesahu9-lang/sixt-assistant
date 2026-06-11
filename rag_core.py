@@ -2,7 +2,7 @@ import streamlit as st
 from langchain_community.document_loaders import TextLoader, PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import FAISS
 
 @st.cache_resource
 def load_retriever():
@@ -18,7 +18,7 @@ def load_retriever():
     splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
     chunks = splitter.split_documents(docs)
     embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-    vectorstore = Chroma.from_documents(chunks, embedding=embeddings, persist_directory="./chroma_db")
+    vectorstore = FAISS.from_documents(chunks, embedding=embeddings)
     return vectorstore.as_retriever(search_kwargs={"k": 3})
 
 def ask_sixt_assistant(question):
