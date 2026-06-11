@@ -1,0 +1,375 @@
+USA - Passenger vehicle
+Rental Information
+In General
+A rental day consists of each consecutive 24-hour period beginning after the start time of the rental (regardless of time zones and daylight-saving times effects).
+
+A reservation can be made for up to 365 days. Reservations of over 28 days will be processed in 28-day increments until the entire length of the reservation is fulfilled. The first rental agreement will be provided to the renter at pick-up. Subsequent rental agreements will be created remotely and sent to the customer via email. The renter must review, electronically sign, and provide the vehicle's current mileage for each subsequent rental agreement.
+
+To extend an active rental, please visit sixt.com/service or call SIXT at +1 888 SIXT CAR (749 8227). Rentals can be extended until the 28th day of the rental, as long as the following conditions are met:
+- The Renter's Driver's license is valid throughout the new rental period.
+- The incremental authorization on the payment method on file is successfully processed.
+- The vehicle selected has enough remaining days and mileage to fulfill the new rental period.
+Any extension past the 28th day of the current rental agreement must be processed as a new rental agreement. Please be advised any rentals occurring in the following locations do not offer rental extensions over the phone and require the customer to come into the branch in-person if they wish to extend: all non-airport locations in Texas and Illinois.
+
+Driver's License Requirements
+The renter and all authorized drivers must present a valid, unexpired and original driver's license at the time of the rental. The driver's license must be legible, in good condition, and valid for the entire rental period.
+Temporary licenses are only accepted when presented alongside the original expired or voided driver's license. Digital licenses, photocopies and Learner's Permits are not accepted.
+
+Driver's licenses that restrict the driver to the use and operation of a vehicle equipped with a form of a breathalyzer apparatus are not accepted.
+For Florida only: According to state law, certain, limited out-of-state driver's licenses with the following indications "DO - Not for Federal Identification" and "Driving Privilege Only - Not Valid for Identification" are not recognized by the State of Florida to drive a vehicle on public roads, and thus, will not be accepted.
+Renters with a non-U.S. driver's license may be required to present a valid passport or other government-issued ID as a second form of identification.
+
+Driver's licenses printed in a non-Roman alphabet (Arabic, Chinese, Japanese, Cyrillic, etc.) must be complemented by an international driver's license. For driver's licenses from countries not part of the international driver's license treaty an official translation is required.
+Sixt supports Chinese customers with the necessary translations via Sixt WeChat Account or via following link: Link . This or any other kind of valid translation of the driving license can only be accepted if accompanied by the original driving license.
+
+Age Restrictions
+The minimum age to rent a vehicle is 21 years, except for rentals in the state of New York, where the minimum age to rent a vehicle is 18 years. The minimum age for a Government renter is also 18 years. There is no maximum age limit.
+
+Certain regulations apply related to the minimum age and possession of a driver's license which can be found during the booking process depending on the booked vehicle. Renters under 25 years old may only rent the following vehicle categories:
+
+Vehicle Categories	Vehicle Codes
+Economy through Full-size Sedans, Compact through Midsize SUVs and Minivans	EC**, CC**, HC**, IC**, SC**, FC**, CF**, IF**, and MV**
+Americans with Disabilities Act
+SIXT offers a range of possibilities to accommodate customers with disabilities to ensure that they enjoy the high standard of customer service that SIXT provides. Such accommodations, however, require advance notice. Should your reservation require any special accommodation please promptly contact SIXT at specialrequest-usa@sixt.com or +1 888 SIXT CAR (749 8227) and confirm the availability of the accommodation you need.
+
+Additional Requirements
+SIXT reserves the right to decline a rental where the operation of a specific vehicle requires additional permitting, documentation, or other qualifications in addition to a valid driver's license. SIXT also reserves the right to decline a rental where the renter's driver's license restricts the operation of the requested rental vehicle.
+
+The renter is responsible for complying with all licensing and traffic laws and regulations. For vehicle categories OVAV (12-passenger vans) and XVAV (15-passenger vans): Please check local state laws for minimum Driver's License requirements before booking. The use of these vehicle categories may require a commercial driver's license. A commercial driver's license is not required if the rental will be used for non-commercial use. These vehicles may not be used to transport children in the twelfth (12th) grade or younger for school-related functions except if such individuals are family members of the appropriately licensed authorized driver. These vehicles may not be operated in Canada.
+
+
+Payment Information
+In General
+The payment method must be issued under the renter's name and must be physically presented at pick-up. Cards must be valid for the entire rental period. Cards expire on the last day of the month listed on the expiration date.
+Cards from online banking institutions are accepted as long as the renter presents the physical card, and all other guidelines are followed.
+Credit and debit cards are required to have a chip, except for China Union Pay cards.
+
+We accept all major credit cards including Visa, Mastercard/Maestro, American Express, Discover, Diners Club, China Union Pay, Japan Credit Bureau and AirPlus. The credit card used must have sufficient available credit at pick-up. Payments with a credit card may require the credit card PIN.
+
+We accept debit cards at all SIXT airport locations when the following requirements are met:
+- Renter presents a booked return flight, train, or bus ticket under their name matching the return date of the SIXT rental and made at least 24 hours prior to pick-up, and
+- Vehicle category driven is NOT an R***, G***, U***, W***, L***, FF**, PF** or Sports and Luxury vehicle.
+
+International renters may present a debit card issued in their country of origin at airport locations when the following requirements are met:
+- Vehicle category is NOT a Sports & Luxury vehicle.
+
+We accept debit cards at all SIXT downtown locations when the following requirements are met:
+- Renter presents a booked return flight, train, or bus ticket under their name matching the return dates of the SIXT rental and made at least 24 hours prior to pick-up, or
+- Renter presents two current (not expired or overdue) utility or cable bills, a lease agreement, or credit card statement from the pick-up state that matches the name and address on the driver's license of the renter (digital copies are accepted if the source is the official page, e.g., Florida Power & Light website), and
+- Vehicle category driven is NOT an R***, G***, U***, W***, L***, FF**, PF** or Sports and Luxury vehicle.
+
+We accept PayPal for prepaid bookings in the following locations only:
+Aspen Airport, Boca Raton, Eagle Vail Airport, Fort Lauderdale Westin, Ft. Myers Airport, Houston/Royal Sonesta, Kissimmee/Orlando Near Disney, Lake Buena Vista/Hyatt Regency, New York City Brooklyn, New York City Times Square, Palm Beach Int. Airport, Pompano Beach, Portland Downtown, Seattle Near Pike Place.
+When using PayPal as a payment method for a prepaid booking, the customer will be redirected to the PayPal website. Please be aware that the renter must be the PayPal account holder. Additionally, at pickup, the renter must present a valid physical payment card in their name to secure the rental. At time of pickup, the valid physical payment method will be used to make a security deposit and for any add-ons the customer may wish to add. If the customer wishes to extend the rental or has accrued any additional charges at the end of the rental, the valid physical payment method the customer presents at pickup will be used for such charges.
+The use of PayPal and the PayPal website is subject to the applicable PayPal terms and conditions. After completing the payment on the PayPal website, the customer is redirected back to the Sixt website and can confirm the reservation. If the customer opens a PayPal Dispute Resolution ("Dispute") before the pick-up time specified in the reservation, the reservation will be cancelled, and the amount will be credited to the customer's PayPal account. In such cases, Sixt reserves the right to charge a fee in accordance with the provisions of the Prepaid Reservation Policies - Pay now / Best price section found below, if the Dispute is unjustified or abusively filed, unless the renter proves that Sixt has incurred no or significantly less expense and/or damage. A Dispute decided in favor of the customer does not exclude Sixt's right to assert its claims for payment of the rental price and damages by other means than those provided by PayPal.
+
+Apple Pay is accepted only for prepaid reservations booked through our SIXT website or App, including our counter bypass option. When paying online with Apple Pay, you must select a credit card in your Apple Wallet; debit and prepaid cards are not accepted. The use of Apple Pay is subject to Apple's terms and conditions.
+Apple Pay is not accepted as a method of payment at the counter, except at select pilot locations where in-person digital wallet payments may be offered. Regardless of online payment method, you must present a valid physical payment card in your name at pickup to place the security hold and pay for any add-ons.
+We do not accept prepaid credit cards, checks or cash. Chime cards are only accepted as a payment method at the end of the rental once the vehicle is returned.
+SIXT Express cards (Advantage Circle) are not accepted as a valid payment method.
+At pick-up, the payment method will be authorized for an amount that includes the rental price, all additional charges and extras, and a security hold dictated by the vehicle driven. These funds will not be available to you during the rental.
+See the table below for a breakdown of security holds and accepted payment methods by vehicle category.
+Additional requirements in Indianapolis and Cincinnati locations may apply.
+
+For rentals picked up in non-airport locations in Texas, Colorado, Louisiana, Minnesota, Illinois, and Indiana the following guidelines apply:
+
+Vehicle category	Vehicle code	Minimum authorization amount
+Economy through Premium Sedan, Compact through Standard SUV, Compact and Intermediate Elite SUV, Pick-up Trucks and Jeeps, Economy through Compact Elite Convertibles, Minivans.	All vehicle codes not specifically listed below.	Rental amount + $300
+Economy Elite through Premium Elite Sedan, Intermediate Elite Special SUV, Standard Elite through Premium SUV, 7+ Seaters, Electric Pick-Up Trucks, Standard Elite through Luxury Elite Coupe, Economy Elite through Fullsize Elite Convertible, Vehicles labeled %u2018Special Cars%u2019.	G***, R***, U***, PF**, FF**, JT**, O***, X***, L***, WEA*, **S*	$500, or Rental amount + $300, whichever is higher
+Premium Elite and Luxury Elite SUV, Luxury Elite Sedan, Luxury Elite Convertible, Luxury SUV, Standard Special SUV, Fullsize Elite Special SUV.	W***, UF**, GFS*, LFS*, SFS*	$1000, or Rental amount + $300, whichever is higher
+Fullsize Coupe and Convertible, Fullsize Elite Electric SUV, Luxury Elite Coupe Special, Premium Elite SUV labeled 'Sports & Luxury Car'.	FEL*, FTL*, GF*E, WES*, UFL*	$2500, or Rental amount + $300, whichever is higher
+Debit cards are only accepted at these locations for rentals with vehicle categories up to until Standard SUV/Intermediate Elite SUV. For rentals with pick-up in non-airport locations in Texas, Colorado, Louisiana, Minnesota, Illinois, and Indiana a second form of identification may be requested. Approved second forms of identification include military ID, passport, permanent resident card, voters registration card or student photo ID.
+
+The following guidelines apply for all other locations:
+
+Vehicle category	Vehicle code	Minimum authorization amount	Payment method
+Economy through Premium Sedan, Compact through Standard SUV, Compact and Intermediate Elite SUV, Pick-up Trucks and Jeeps, Economy through Compact Elite Convertibles, Minivans.	All vehicle codes not specifically listed below.	Rental amount + $200	If using a debit card, additional documentation will need to be presented at pick up (see above for details).
+Economy Elite through Premium Elite Sedan, Intermediate Elite Special SUV, Standard Elite through Premium SUV, 7+ Seaters, Electric Pick-Up Trucks, Standard Elite through Luxury Elite Coupe, Economy Elite through Fullsize Elite Convertible, Vehicles labeled 'Special Cars'.	G***, R***, U***, PF**, FF**, JT**, O***, X***, L***, WEA*, **S*	$500, or Rental amount + $200, whichever is higher	A credit card is required. An Internationally issued debit card may be accepted with additional documentation presented at pick-up (see above for details).
+Premium Elite and Luxury Elite SUV, Luxury Elite Sedan, Luxury Elite Convertible, Luxury SUV, Standard Special SUV, Fullsize Elite Special SUV.	W***, UF**, GFS*, LFS*, SFS*	$1000, or Rental amount + $200, whichever is higher	A credit card is required.
+Fullsize Coupe and Convertible, Fullsize Elite Electric SUV, Luxury Elite Coupe Special, Premium Elite SUV labeled 'Sports & Luxury Car'.	FEL*, FTL*, GF*E, WES*, UFL*	$2500, or Rental amount + $200, whichever is higher	A credit card is required.
+For long-term rentals, SIXT will capture the total amount due for the first 28 days during the initial checkout. The renter must provide a payment method valid for the entire term of the long-term reservation. At the time of the creation of each rental agreement, SIXT will process a payment equal to the rental agreement's gross total for everyrental agreement in the long-term series. Longterm rentals do not require a deposit. If additional products are added after the initial check-out, the system will authorize the incremental amount, which will then be captured at the end of the current period. SIXT will invoice each rental agreement separately. If any one of these payments fail, the renter will be sent a link via email where they will be required to provide a different payment method. If the renter is unreachable after three days of SIXT attempting to reach the renter via email and telephone or is unable to provide a valid payment method, the vehicle MUST be returned to a SIXT location within 24 hours of notice or SIXT will follow the Overdue process. Three days prior to the renewal, the customer will receive an email with a link to accept their new rental agreement. If not completed, the customer will receive reminders again 1 and 2 days before the beginning of the next period. Failure to accept this new term will result in auto-acceptance.
+
+To change the payment method on file during an open rental or at the vehicle return, please visit your nearest SIXT location. Please note, the refund to the initial payment method may take up to 15 business days.
+
+Prepaid Reservation Policies - Pay now / Best Price
+By booking a prepaid rate, the payment will be charged before the start of the rental with the estimated total amount of the rental (rental charge plus any other agreed charges and taxes for the full agreed rental period). The total amount will be charged in USD (if applicable, with the exchange rate valid at the time of debit). The driver and confirmed method of payment shall be finalized at the time of reservation and cannot be changed. The confirmed method of payment must be valid and available for presentation at the time of pick-up and is subject to the conditions of payment above. All extra costs that occur during the car rental will be charged to this payment method. A refund shall not be issued for non-collection, the vehicle being collected late, or returned early.
+
+--
+
+Change Booking
+
+A prepaid booking can be changed up to one hour before the start of the rental (depending on availability). Any payment already made towards the rental will not be refunded; nor shall any differential amount be refunded if this modification leads to a lesser rental cost. Any changes made to a prepaid reservation may impact the rental rate. A change from a prepaid rate to a non-prepaid rate is not possible.
+
+--
+
+Cancellation
+
+A prepaid booking can be canceled before the start of the rental. In the event of a cancellation, any refund of the payment made towards the rental is subject to a cancellation fee. The cancellation fee will never exceed the total prepaid amount.
+- Cancellations up to 24 hours prior to scheduled pickup time will result in the collection of a $100 cancellation fee (excl. tax). The remaining prepaid amount of more than $100 (excl. tax) will be refunded.
+- Cancellations within 24 hours prior to the scheduled pickup time will result in the collection of a $200 cancellation fee (excl. tax). The remaining prepaid amount of more than $200 (excl. tax) will be refunded.
+- Cancellations or changes made within 24 hours of booking can be completed free of charge, provided the scheduled pick-up time is more than 48 hours away. 
+- No refund will be issued in case of cancellation after the scheduled pick-up time.
+
+Booking changes and cancellations can be made online at www.sixt.com/service, requested via email to reservations-usa@sixt.com, or via phone call to our Service Center
+
+--
+
+No-show
+
+No refund will be issued in case of failure to pick up your vehicle (no-show).
+
+--
+
+Late pick up or Early Return
+
+No refunds or credits will be issued for unused rental days once the vehicle is rented.
+
+Protection Conditions
+Liability protection
+SIXT does not extend any of its motor vehicle financial responsibility and SIXT does not provide any liability insurance coverage to renter, passengers, or third parties through this reservation unless SIXT is obligated to do so due to legal requirements or according to the rental agreement.
+
+The purchase of Supplemental Liability Insurance Select (SLI) or Supplemental Liability Insurance (SLI300) is not required as a condition of renting an automobile. The renter's personal insurance policy may provide coverage for liability while operating a rental vehicle as per its terms and conditions. It is recommended that renters check the terms and conditions of their personal automobile insurance policy to determine if coverage is provided for this rental. SIXT is not qualified to evaluate the adequacy of the renter's existing liability coverage.
+
+The liability protection product booked or included in the rental can be identified during the reservation flow / on the reservation confirmation.
+
+Rental Liability Insurance (RLI) (coverage up to state required limits)
+If purchased, Rental Liability Insurance (RLI) provides the renter with protection against covered third-party claims for bodily injury and/or property damage resulting from an accident while operating the rental vehicle.
+
+RLI offers liability coverage up to the minimum limits required by the state where the rental occurs.
+RLI does not provide coverage in all situations. Exclusions may apply, including for unauthorized or impaired drivers. RLI may also not include first-party protections such as uninsured/underinsured motorist coverage or coverage for certain passengers. Additional limitations and exclusions may apply.
+
+For complete details, please review the rental agreement jacket. A full copy of the RLI policy is available at the counter upon request or can be found in the Rental Information.
+RLI is not guaranteed to be available for all vehicle groups or all reservations.
+
+State	MFRL (Minimum Financial Responsibility Limits)	UM (Uninsured Motorist)	UIM (Underinsured Motorist)	PIP (Personal Injury Protection)
+AZ	25/50/15	15/50	25/50	
+CA	30/60/15	30/60	30/60	
+CO	25/50/15	25/50	25/50	
+FL	10/20/10	10/20	10/20	10
+GA	25/50/25	25/50/25	25/50/25	
+HI	20/40/10	20/40	20/40	10
+IL	50/100/50	50/100/50	10/100/50	
+MN	30/60/10	25/50	25/50	40
+MO	25/50/25	25/50		
+NV	25/50/20	25/50	25/50	
+NM	25/50/10	25/50	25/50	
+NC	30/60/25	30/60/25	30/60/25	
+OR	25/50/25	25/50	25/50	
+TN	25/50/15	25/50/15	25/50/15	
+TX	30/60/25	30/60/25	30/60/25	2.5
+UT	25/65/15	25/65	25/65	5
+WA	25/50/10	25/50		
+WI	25/50/10	25/50	25/50	
+Please note that the Minimum Financial Responsibility Limits are displayed as: for Bodily Injury per person/ Bodily Injury per accident/ Property Damage per accident; Numbers are represented at 1,000 USD.
+
+Supplemental Liability Insurance (SLI300) / Suppl. Liability 300k / Supplemental Liability Insurance 300 (SLI300) (coverage up to USD 300,000)
+If purchased, Supplemental Liability Insurance (SLI300) protects the renter against claims made by a third party for bodily injury and/or property damage sustained because of an accident while the renter is operating a rental vehicle.
+
+This SLI300 supplies the renter with third-party liability protection up to a limit of USD 300,000 per accident.
+
+SLI300 does not cover all situations that may arise while operating a rental vehicle. SLI300 does not cover all risks. There may be exclusions for unauthorized or intoxicated drivers. There may not be first-party uninsured motorist coverage or coverage for certain passengers in the vehicle. Other exclusions may apply.
+
+For further details, see the jacket of our rental agreement. Additionally, a complete copy of the SLI300 Policy is available at the counter for your review upon request.
+
+Supplemental Liability Insurance (SLI300) is not guaranteed to be available for all vehicle groups or reservations.
+
+Supplemental Liability Insurance Select (SLI) / Suppl. Liability 1M (coverage up to USD 1 mio.)
+If purchased, Supplemental Liability Insurance Select (SLI) protects the renter against claims made by a third party for bodily injury and/or property damage sustained because of an accident while the renter is operating a rental vehicle.
+
+This coverage supplies the renter with third-party liability protection up to a limit of USD 1,000,000 per accident.
+
+SLI does not cover all situations that may arise while operating a rental vehicle. SLI does not cover all risks. There may be exclusions for unauthorized or intoxicated drivers. There may not be first-party uninsured motorist coverage or coverage for certain passengers in the vehicle. Other exclusions may apply.
+
+For further details, see the jacket of our rental agreement. Additionally, a complete copy of the Supplemental Liability Excess Policy is available at the counter for your review upon request.
+
+Supplemental Liability Insurance Select (SLI) (coverage up to USD 1M) is not guaranteed to be available for all vehicle groups or reservations.
+
+Partial Damage Waiver
+The Partial Damage Waiver removes the renter's responsibility for the first USD 1,500.00 of damage to or loss of the vehicle.
+The customer will be held liable for any damage or loss exceeding the amount of USD 1,500.00.
+
+For further details please see the jacket of the rental agreement. Partial Damage Waiver is not available in all states.
+
+Loss Damage Waiver (LDW) (incl. theft protection) with deductible
+The Loss Damage Waiver (incl. theft protection) with deductible reduces the renter's responsibility to a part of the vehicle in the event of damage or loss of the rental vehicle.
+
+If the Loss Damage Waiver (incl. theft protection) with deductible is accepted, the renter is responsible for a certain deductible amount depending on the car category. Detailed information regarding the amount can be found in the reservation confirmation as well as the rental agreement. Depending on the state a reduction of the deductible by buying a Loss Damage Waiver (incl. theft protection) with minimum deductible is possible.
+
+If the renter neither purchases the deductible damage waiver (incl. theft protection) nor the loss damage waiver (incl. theft protection) with a minimum deductible, he will be held liable for the full value of the vehicle.
+
+For further details please see the jacket of the rental agreement.
+
+Loss Damage Waiver (LDW) (incl. theft protection) with deductible is not available for selected high end Sports & Luxury vehicles.
+
+Loss Damage Waiver (LDW) (incl. theft protection) with a minimum deductible
+The Loss Damage Waiver (incl. theft protection) with minimum deductible reduces the renter's responsibility to a part of the vehicle in the event of damage or loss of the rental vehicle.
+
+If the Loss Damage Waiver (incl. theft protection) with minimum deductible is included or bought, the renter is responsible for the following deductibles: USD 0.00 for any vehicle rented from the car category.
+
+If the renter neither purchases the deductible damage waiver (incl. theft protection) nor the Loss damage waiver (incl. theft protection) with a minimum deductible he will be held liable for the full value of the vehicle.
+
+For further details please see the jacket of the rental agreement.
+
+Loss Damage Waiver (LDW) (incl. theft protection) with a minimum deductible is not available selected high end Sports & Luxury vehicles.
+
+Personal Accident Coverage
+Personal Accident Coverage (PAC) covers bodily injury to occupants of the rental vehicle.
+
+Personal Accident Coverage does not cover all risks. Exclusions may apply. For further details please see our PAC brochure and find the full PAC policy available for your review upon request. Personal Accident Coverage is not available in all states.
+
+Personal Property Coverage
+Personal Property Coverage (PPC) provides protection against damage to personal effects owned by the renter, its immediate family members who are traveling with the renter and reside in the same household, as well as an additional driver, when damaged while in the rental vehicle or in a hotel.
+
+Personal Property Coverage does not cover all risks. Exclusions may apply. For further details please see our PPC brochure and find the full PPC policy available for your review upon request.
+
+Extended Roadside Protection
+SIXT will provide any renter who has purchased the optional Extended Roadside Protection coverage with 24/7 breakdown assistance (where available) without any additional charge. It protects the renter at home and abroad against high service and repair costs for the following incidents:
+
+1) Key lockout service: If a renter experiences locking of the key or key fob inside the vehicle during their rental period, SIXT will cover the cost of a lockout service, by either the vehicle manufacturer or a 3rd party service provider, cost of delivering a new vehicle or towing of the vehicle to the nearest SIXT location.
+
+2) Lost key or key fob: If a renter experiences a lost or misplaced key or key fob during their rental period, SIXT will cover the cost of replacing the key or key fob, the cost of delivering a new set of keys (if available), towing of the vehicle to the nearest Sixt location and for a replacement vehicle.
+
+3) Flat tire service: If a renter experiences a flat tire during the rental period, SIXT will cover the cost of assisting to replace the tire either by a 3rd party service provider, delivering a new vehicle, or another solution with the goal of handling the roadside assistance. Damages caused to the tire will not be covered without the purchase of Loss Damage Waiver.
+
+4) Dead Battery: If a renter experiences a situation during their rental period, SIXT will cover the cost of jumpstart service, by either the vehicle manufacturer or a 3rd party service provider, the cost of delivering a new vehicle or towing of the vehicle to the nearest SIXT location.
+
+5) Towing: If it is not possible to move the vehicle (e.g., due to wintery road conditions, stuck in the mud, underestimated road conditions, or incidents not being repairable on site) SIXT will cover the costs for the vehicle to be towed away (to the nearest SIXT location) and for a replacement vehicle. Incidents not being repairable on site, like mechanical failures aside from being a result of a collision, are covered by our SIXT basic standards. Damages caused by the collision will not be covered, please refer to "Loss Damage Waiver".
+
+6) Breakdown caused by empty fuel tank: If a renter experiences a breakdown due to running out of fuel, SIXT will cover the costs for breakdown assistance and fuel required to continue your trip.
+
+When deciding whether to purchase Extended Roadside Protection, it is recommended renters check whether they have this coverage available through their personal auto insurance carrier or through a 3rd party carrier. Extended Roadside Protection is not insurance.
+
+All services may only be ordered by a direct claim with SIXT 24-hour Extended Roadside Protection. SIXT will determine the type and extent of service required to ensure the renter stays mobile. If any damage to the rental vehicle occurs which is not covered by SIXT within the scope of the Extended Roadside Protection, the renter is liable for such damage.
+
+Authorized Driving Areas & Rentals Across State Lines
+Within the contiguous United States
+Vehicles rented at most SIXT location in the contiguous United States may be driven throughout the contiguous states.
+
+From the United States, in Canada
+Renters picking up in the United States and wishing to drive their SIXT vehicle in Canada must abide by the following geographical restrictions.
+
+If the vehicle is picked up in:	Then, the vehicle may only be driven in:
+Arizona (AZ), California (CA), Colorado (CO), Nevada, (NV), Oregon (OR), Utah (UT), and Washington (WA).	the province of British Columbia and Alberta.
+Illinois (IL), Maryland (MD), Massachusetts (MA), Minnesota (MN), New Jersey (NJ), New York (NY), Pennsylvania (PA), Virginia (VA) and Wisconsin (WI).	the provinces of Ontario, Quebec, and New Brunswick.
+From the United States to Canada
+One-ways from the United States to Canada are strictly prohibited.
+
+From the United States, in or to Mexico
+Renters picking up in the United States may NOT drive their SIXT vehicle to, through, or within Mexico.
+
+Renters using the rental vehicle in violation of the applicable authorized driving areas will be charged a fee of USD 0.50 for each mile the vehicle has been driven during the rental.
+
+Extras
+One-way Rentals
+Usually, all one-way rentals within Sixt locations are allowed. Additional fees may apply.
+
+In the case of unannounced and unauthorized one-way rentals, we reserve the right to charge an additional fee.
+
+International one-way rentals are not allowed.
+
+GPS
+Navigation systems (portable or built-in) are guaranteed to be available if a booking is made.
+
+Additional Driver
+A fee applies for the additional driver, whose details are noted in the rental agreement only if the additional driver presents a valid driver's license. For rentals in locations where required by applicable law, the additional driver is free of charge.
+
+Infant, Toddler, and Booster Seats
+Infant seats, toddler seats, and booster seats for children up to 12 years (up to 145 cm / 57 in) are guaranteed to be available if a booking is made.
+
+Ski rack
+Ski racks are available at selected locations (seasonally). Ski racks are available only with specific ACRISS codes and vehicle models. Ski racks hold up to 3 pairs of skis or 2 snowboards (up to 59 kg or 130 lbs.).The keys to lock the racks will not be provided. SIXT is not responsible for any lost/damaged customer property. Customers will be held accountable for damage/lost/stolen ski racks.
+
+Toll Services
+Please be aware that some tolls may not accept cash as a method of payment. If you choose not to purchase one of our toll products and use an automated express/toll lane without a personal transponder, you will pay us our administrative fee of $15.99 per usage day, up to a maximum amount of $99 per rental agreement, plus the applicable toll fee, for each time you use an automated express/toll lane during your rental without a personal transponder (or another method of payment). To avoid toll violations and associated fines, fees, and taxes (and our administrative fees for processing violations and citations), you must pay all tolls with a personal transponder; use only cash lanes and pay cash; plan a route to avoid tolls; or consult local authorities for other payment methods.
+For your convenience, Sixt offers the below optional toll products:
+(1) Toll pass (Price and availability vary by state)
+You can purchase our optional Toll pass which offers unlimited use of automated toll lanes. Our toll service does not cover toll roads that only accept cash.
+(2) General Toll Service (Only Northeast US, price and availability vary by state)
+If you choose to use our transponder, you will be billed for all tolls at the highest prevailing undiscounted rate, plus a set fee for each day of the rental. You may purchase this service at the time of rental or by calling 1-(888)-749-8227 to add Toll Service during your rental. If you DO NOT wish to use our transponders, DO NOT open the Vehicle's transponder box.
+
+Refueling Options
+The Vehicle will typically be picked up with a full tank of fuel/battery charge. If desired, the vehicle will be refueled/recharged according to currently available conditions after returning it to the station.
+You may purchase the full tank of fuel/battery charge at the time of reservation or at the time of rental. The price quoted at reservation or rental will lock in your fuel/battery charging price at a competitive price with local fuel/recharging stations. If you purchase the tank/battery charge upfront, do not refuel/recharge (however, you must ensure the vehicle is returned with at least a 20% charge). No refunds will be given for unused fuel/battery.
+
+- Alternatively, you may book a tanking service for a fee and return the tank empty. The refueled gallons will be charged at a price that is competitive with local fuel stations additionally to the prior noted tanking service fee. Subject to availability, at selected stations only.
+
+- If you do not purchase the Prepaid Fuel in advance and return the Vehicle with less fuel than when rented, you will pay us for the fuel used at the price per gallon stated on your rental agreement.
+
+- If you do not purchase any of the fueling options in advance and return the tank full or at the same fuel level as at the time you received the vehicle, there will be no charges for fuel.
+
+Tires
+All vehicles are equipped with all-season tires.
+
+Electric vehicle charging
+The renter is obliged to return the vehicle with the charge level stated on the rental agreement. We record the charge level of electric vehicles both at handover and return. If the charge level of the electric vehicle at handover was above 80%, the renter is required to return the vehicle with a charge level of at least 80%. If the charge level of the vehicle at handover was below 80%, the renter is required to return the vehicle with a corresponding charge level.
+If the vehicle is returned with a lower charge level than agreed, SIXT will charge the renter for recharging the vehicle according to the price stated on the rental agreement.
+
+Flexi Return Guarantee
+General
+Plans can change. As a flexible mobility partner, we are happy to adapt to your plans. However, you are still obligated to inform us of your intentions to deviate from your rental agreement and the charges enumerated below may apply.
+If your plans change during your rental, let us know via sixt.com/service or by contacting us at +1 888 749 8227 or in person at any of our numerous branches and our employees will amend your rental contract. By doing this, we can adapt our processes to your changed plans.
+If you do not contact us to extend your rental, nothing herein gives you permission to retain possession of your rental vehicle beyond the date and time stated in your rental agreement for returning the vehicle. If you retain possession of the vehicle without contacting us, we will follow our standard Overdue process.
+
+Flexi Early Return in the rate option "Pay later" / "Flexible"
+If you return your vehicle earlier than the date agreed upon in the rental contract, we will charge the rental price according to the contract terms and reserve the right to recalculate your charges based on the actual number of days you used the rental vehicle. You will receive a partial discount for the unused rental days.
+
+Refund for early return (in % of the price difference)	Maximum amount payable by the customer for early returns
+Early Return	50%	USD 200.00
+The partial discount for the unused rentals days will be displayed on your invoice.
+If you inform us upfront about your change of plans, we will not charge you for early return.
+
+Early Return in the rate option "Pay Now" / "Best Price"
+When booking at a prepaid rate, a refund shall not be issued for early return. For further information please refer to the section Prepaid Reservation Policies - Pay now.
+
+Flexi Late Return in both rate options ("Pay later" / "Flexible" & "Pay now" / "Best Price")
+If you return the vehicle later than agreed in the rental agreement, extra days may be charged due to the rental extension. The price of these will be based on the shorter hire duration. If you do not inform us about the rental extension, we will charge an additional service fee of USD 20.00 for the Flexi Return service.
+
+Product information Sixt+
+Application
+To apply for Sixt+, during the booking flow an individual will submit an application that includes their contact information and payment details. Sixt reserves the right to conduct a background or credit check to evaluate the applicant's eligibility. Sixt may reject an application based on factors such as creditworthiness or inability to verify identity.
+
+General
+One month corresponds to a period of 30 days; a minimum period of 30 days applies. After the expiration of the minimum term, the contract is always automatically extended by a further 30 days. You are entitled to terminate the contract at any time by returning his vehicle to a SIXT station. The return of the vehicle at a SIXT station is considered an ordinary termination of the existing contract with effect from the end of the 30-day billing period on the respective return date.
+
+Age Restrictions
+Regulations according to the General Rental Information section apply to the minimum age and driving license possession in the SIXT+ Car program.
+In principle, the minimum age for each driver is 21 years (driving license possession for at least 1 day). A deviation of the minimum age is possible depending on location and vehicle.
+
+Enrollment fee
+A one-time-only enrollment fee is charged per program. The amount of the enrollment fee is shown during the reservation process.
+
+Vehicle change
+SIXT vehicles have a limited holding period and mileage. Therefore, SIXT has a right to exchange the vehicle delivered to you during the contract period when a certain holding period or mileage is reached. If a vehicle exchange is necessary, you will be contacted in time by the station and are obliged to return the vehicle to the specified Sixt station on the agreed date. You will receive a replacement vehicle in the vehicle category originally booked.
+
+Vehicle Return
+The customer has the possibility to terminate the contract at any time by returning the vehicle at any SIXT station. Please see SIXT+ Car program terms and conditions for further information.
+The participant will not receive a refund for the remaining portion of the Term.
+
+All-Wheel-Drive
+Available at select locations, book this add-on to guarantee a vehicle with all-wheel drive. Purchasing this add-on does not allow you to violate any standards stated in the terms and conditions. For clarity, even if you purchase one of SIXT's damage waiver products, responsibility will not be waived when the vehicle is used off-road or in violation of any of the terms of the damage waivers contained in the terms and conditions.
+
+Other Charges and Taxes
+Recovery Fees
+SIXT has elected to impose 'recovery fees' to recover or recoup all or a portion of its expenses related to the right to do business at certain airports. These fees include Airport Concession Recovery Fees, Privilege Fee Recovery Charges, and recover all or a portion of the concession fees that SIXT is obligated to pay to the airport.
+Your quoted online rate will show all applicable fees in detail on your reservation.
+
+Customer and Rental Facility Charge
+This charge is imposed by the airport authority on all rental car users on either a per transaction or per day basis. These funds are typically held in the trust to pay for the financing of the building, transportation system, or operations and maintenance of the facility, as determined by the airport authority.
+
+Transportation and Facility Fees
+These third-party fees are intended to compensate for joint services and uses of Transportation and Facility Management between all rental car companies on-site pursuant to the Concession and Lease requirements.
+
+Vehicle License Fee
+This fee is used to cover the costs that SIXT pays for vehicle registration, license fees, and related fees for a rental. It varies depending on the location.
+
+Energy Surcharge
+Energy costs are a large portion of SIXT's operating expenses apart from the costs of refueling vehicles. To offset this significant cost, SIXT is imposing an Energy Surcharge. This charge is an estimate and is not intended to give a precise measure of SIXT's actual energy costs incurred by each individual customer.
+
+Other fees
+Those fees can either be mandatory or permitted, depending on the applicable law. Those fees vary by location. More information about those fees can be provided at the rental counter.
+
+Taxes
+All prices indicated in the rental information are net prices. State, federal, and local taxes apply to all rentals and charges.
+
+For corporate customers with individual agreements alternative prices and regulations can apply.
+Print
